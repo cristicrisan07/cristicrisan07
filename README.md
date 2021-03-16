@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on projects that target mobile devices, or any project that has as a goal to help people with their activities.
 I'm enthusiast about ideas that point to road safety, people mobility improvements, public transportation or alternative transport.
 - 📫 How to reach me:
-Gmail: cristicrisan07@gmail.com
+Email address: cristicrisan07@yahoo.com
 linkedIn: www.linkedin.com/in/crisancristian-alexandru
 
 <!---
