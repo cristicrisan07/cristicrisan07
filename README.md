@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Crișan Cristian-Alexandru, second year student at the Technical University of Cluj-Napoca.
+- 👋 Hi, I’m Crișan Cristian-Alexandru, third year student at the Technical University of Cluj-Napoca.
 - 👀 I’m interested in mobile software development, especially on Android, financial domain and very passioned about the automotive world 🚗.
  I constantly look to acquire knowledge and to be up to date with the latest technologies and novelties from these domains. 
 - 🌱 I’m currently studying Computer Science, and I'm learning sofware development( focusing on Object-Oriented Programming techniques) and hardware design.
